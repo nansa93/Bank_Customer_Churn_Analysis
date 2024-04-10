@@ -33,6 +33,6 @@ Due to its high loss of customers rates, the bank is trying to lower its custome
 
 There are 10,000 total customers connected to the bank.
 
-Churn Rate is 20.37 % .Which is higher than the healthy range , churn rate of 5-7% annually is considered average in the banking industry. 
-So the bank should consider this as the serious problem and take necessary actions.
+20% is the churn rate. In the banking industry, an annual churn rate of 5-7% is considered normal, and this is greater than the healthy range. 
+Therefore, the bank needs to take the proper action and treat this as a severe issue.
 
