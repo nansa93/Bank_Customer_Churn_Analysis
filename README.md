@@ -53,11 +53,13 @@ Due to its high loss of customers rates, the bank is trying to lower its custome
 
 - Tenure—refers to the number of years that the customer has been a client of the bank. 
 
-- Balance—also a very good indicator of customer churn, as people with a higher balance in their accounts are less likely to leave the bank compared to those with lower balances.
+- Balance—also a very good indicator of customer churn, as people with a higher balance in their accounts are less likely to leave the 
+  bank compared to those with lower balances.
 
 - NumOfProducts—refers to the number of products that a customer has purchased through the bank. 
 
-- HasCrCard—denotes whether or not a customer has a credit card. This column is also relevant, since people with a credit card are less likely to leave the bank.
+- HasCrCard—denotes whether or not a customer has a credit card. This column is also relevant, since people with a credit card are less 
+  likely to leave the bank.
      1 represents credit card holder
    	 0 represents non credit card holder
      
@@ -101,12 +103,14 @@ Approximately 75,000 is the average balance per customer. Higher balance custome
  
 - Gather consumer input, act upon it, and resolve issues to improve general satisfaction.
   
-- Motivate customers to participate actively in banking activities, provide special bonuses, and tailor services according to their usage patterns.
+- Motivate customers to participate actively in banking activities, provide special bonuses, and tailor services according to their 
+  usage patterns.
 
 
+![Customer](https://github.com/nansa93/Bank_Customer_Churn_Analysis/assets/166003206/9a0fd005-ca29-4bd0-8261-b2addf1ee796)
 
 
-
+![Customer 1](https://github.com/nansa93/Bank_Customer_Churn_Analysis/assets/166003206/e58ef6d3-d5d7-4415-a96c-7e1b83a6d18a)
 
 
 
