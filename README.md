@@ -4,7 +4,7 @@
 
 ## Introduction
 
-In this project, we want to analyze bank customer data to find out why consumers quit the bank.
+In this project, we analyze bank customer data to find out why consumers quit the bank.
 
 customer Churn is an important part of any business. In the banking industry, losing a customer is quite important and will undoubtedly impact the branch's turnover. 
 
